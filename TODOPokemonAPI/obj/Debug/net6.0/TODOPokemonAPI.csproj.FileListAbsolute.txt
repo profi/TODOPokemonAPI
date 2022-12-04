@@ -1,0 +1,68 @@
+C:\Users\Kliment Petreski\source\repos\TODOPokemonAPI\TODOPokemonAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Kliment Petreski\source\repos\TODOPokemonAPI\TODOPokemonAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Kliment Petreski\source\repos\TODOPokemonAPI\TODOPokemonAPI\bin\Debug\net6.0\TODOPokemonAPI.exe
+C:\Users\Kliment Petreski\source\repos\TODOPokemonAPI\TODOPokemonAPI\bin\Debug\net6.0\TODOPokemonAPI.deps.json
+C:\Users\Kliment Petreski\source\repos\TODOPokemonAPI\TODOPokemonAPI\bin\Debug\net6.0\TODOPokemonAPI.runtimeconfig.json
+C:\Users\Kliment Petreski\source\repos\TODOPokemonAPI\TODOPokemonAPI\bin\Debug\net6.0\TODOPokemonAPI.dll
+C:\Users\Kliment Petreski\source\repos\TODOPokemonAPI\TODOPokemonAPI\bin\Debug\net6.0\TODOPokemonAPI.pdb
+C:\Users\Kliment Petreski\source\repos\TODOPokemonAPI\TODOPokemonAPI\bin\Debug\net6.0\Flurl.dll
+C:\Users\Kliment Petreski\source\repos\TODOPokemonAPI\TODOPokemonAPI\bin\Debug\net6.0\Flurl.Http.dll
+C:\Users\Kliment Petreski\source\repos\TODOPokemonAPI\TODOPokemonAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Kliment Petreski\source\repos\TODOPokemonAPI\TODOPokemonAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Kliment Petreski\source\repos\TODOPokemonAPI\TODOPokemonAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Kliment Petreski\source\repos\TODOPokemonAPI\TODOPokemonAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Kliment Petreski\source\repos\TODOPokemonAPI\TODOPokemonAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Kliment Petreski\source\repos\TODOPokemonAPI\TODOPokemonAPI\bin\Debug\net6.0\Core.dll
+C:\Users\Kliment Petreski\source\repos\TODOPokemonAPI\TODOPokemonAPI\bin\Debug\net6.0\Core.pdb
+C:\Users\Kliment Petreski\source\repos\TODOPokemonAPI\TODOPokemonAPI\obj\Debug\net6.0\TODOPokemonAPI.csproj.AssemblyReference.cache
+C:\Users\Kliment Petreski\source\repos\TODOPokemonAPI\TODOPokemonAPI\obj\Debug\net6.0\TODOPokemonAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kliment Petreski\source\repos\TODOPokemonAPI\TODOPokemonAPI\obj\Debug\net6.0\TODOPokemonAPI.AssemblyInfoInputs.cache
+C:\Users\Kliment Petreski\source\repos\TODOPokemonAPI\TODOPokemonAPI\obj\Debug\net6.0\TODOPokemonAPI.AssemblyInfo.cs
+C:\Users\Kliment Petreski\source\repos\TODOPokemonAPI\TODOPokemonAPI\obj\Debug\net6.0\TODOPokemonAPI.csproj.CoreCompileInputs.cache
+C:\Users\Kliment Petreski\source\repos\TODOPokemonAPI\TODOPokemonAPI\obj\Debug\net6.0\TODOPokemonAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kliment Petreski\source\repos\TODOPokemonAPI\TODOPokemonAPI\obj\Debug\net6.0\TODOPokemonAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kliment Petreski\source\repos\TODOPokemonAPI\TODOPokemonAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Kliment Petreski\source\repos\TODOPokemonAPI\TODOPokemonAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Kliment Petreski\source\repos\TODOPokemonAPI\TODOPokemonAPI\obj\Debug\net6.0\scopedcss\bundle\TODOPokemonAPI.styles.css
+C:\Users\Kliment Petreski\source\repos\TODOPokemonAPI\TODOPokemonAPI\obj\Debug\net6.0\TODOPokemonAPI.csproj.CopyComplete
+C:\Users\Kliment Petreski\source\repos\TODOPokemonAPI\TODOPokemonAPI\obj\Debug\net6.0\TODOPokemonAPI.dll
+C:\Users\Kliment Petreski\source\repos\TODOPokemonAPI\TODOPokemonAPI\obj\Debug\net6.0\refint\TODOPokemonAPI.dll
+C:\Users\Kliment Petreski\source\repos\TODOPokemonAPI\TODOPokemonAPI\obj\Debug\net6.0\TODOPokemonAPI.pdb
+C:\Users\Kliment Petreski\source\repos\TODOPokemonAPI\TODOPokemonAPI\obj\Debug\net6.0\TODOPokemonAPI.genruntimeconfig.cache
+C:\Users\Kliment Petreski\source\repos\TODOPokemonAPI\TODOPokemonAPI\obj\Debug\net6.0\ref\TODOPokemonAPI.dll
+C:\Users\Kliment Petreski\source\repos\TODOPokemonAPI\TODOPokemonAPI\bin\Debug\net6.0\Application.dll
+C:\Users\Kliment Petreski\source\repos\TODOPokemonAPI\TODOPokemonAPI\bin\Debug\net6.0\Application.pdb
+C:\Test\TODOPokemonAPI\TODOPokemonAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Test\TODOPokemonAPI\TODOPokemonAPI\bin\Debug\net6.0\appsettings.json
+C:\Test\TODOPokemonAPI\TODOPokemonAPI\bin\Debug\net6.0\TODOPokemonAPI.exe
+C:\Test\TODOPokemonAPI\TODOPokemonAPI\bin\Debug\net6.0\TODOPokemonAPI.deps.json
+C:\Test\TODOPokemonAPI\TODOPokemonAPI\bin\Debug\net6.0\TODOPokemonAPI.runtimeconfig.json
+C:\Test\TODOPokemonAPI\TODOPokemonAPI\bin\Debug\net6.0\TODOPokemonAPI.dll
+C:\Test\TODOPokemonAPI\TODOPokemonAPI\bin\Debug\net6.0\TODOPokemonAPI.pdb
+C:\Test\TODOPokemonAPI\TODOPokemonAPI\bin\Debug\net6.0\Flurl.dll
+C:\Test\TODOPokemonAPI\TODOPokemonAPI\bin\Debug\net6.0\Flurl.Http.dll
+C:\Test\TODOPokemonAPI\TODOPokemonAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Test\TODOPokemonAPI\TODOPokemonAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Test\TODOPokemonAPI\TODOPokemonAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Test\TODOPokemonAPI\TODOPokemonAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Test\TODOPokemonAPI\TODOPokemonAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Test\TODOPokemonAPI\TODOPokemonAPI\bin\Debug\net6.0\Application.dll
+C:\Test\TODOPokemonAPI\TODOPokemonAPI\bin\Debug\net6.0\Core.dll
+C:\Test\TODOPokemonAPI\TODOPokemonAPI\bin\Debug\net6.0\Application.pdb
+C:\Test\TODOPokemonAPI\TODOPokemonAPI\bin\Debug\net6.0\Core.pdb
+C:\Test\TODOPokemonAPI\TODOPokemonAPI\obj\Debug\net6.0\TODOPokemonAPI.csproj.AssemblyReference.cache
+C:\Test\TODOPokemonAPI\TODOPokemonAPI\obj\Debug\net6.0\TODOPokemonAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Test\TODOPokemonAPI\TODOPokemonAPI\obj\Debug\net6.0\TODOPokemonAPI.AssemblyInfoInputs.cache
+C:\Test\TODOPokemonAPI\TODOPokemonAPI\obj\Debug\net6.0\TODOPokemonAPI.AssemblyInfo.cs
+C:\Test\TODOPokemonAPI\TODOPokemonAPI\obj\Debug\net6.0\TODOPokemonAPI.csproj.CoreCompileInputs.cache
+C:\Test\TODOPokemonAPI\TODOPokemonAPI\obj\Debug\net6.0\TODOPokemonAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Test\TODOPokemonAPI\TODOPokemonAPI\obj\Debug\net6.0\TODOPokemonAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Test\TODOPokemonAPI\TODOPokemonAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Test\TODOPokemonAPI\TODOPokemonAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Test\TODOPokemonAPI\TODOPokemonAPI\obj\Debug\net6.0\scopedcss\bundle\TODOPokemonAPI.styles.css
+C:\Test\TODOPokemonAPI\TODOPokemonAPI\obj\Debug\net6.0\TODOPokemonAPI.csproj.CopyComplete
+C:\Test\TODOPokemonAPI\TODOPokemonAPI\obj\Debug\net6.0\TODOPokemonAPI.dll
+C:\Test\TODOPokemonAPI\TODOPokemonAPI\obj\Debug\net6.0\refint\TODOPokemonAPI.dll
+C:\Test\TODOPokemonAPI\TODOPokemonAPI\obj\Debug\net6.0\TODOPokemonAPI.pdb
+C:\Test\TODOPokemonAPI\TODOPokemonAPI\obj\Debug\net6.0\TODOPokemonAPI.genruntimeconfig.cache
+C:\Test\TODOPokemonAPI\TODOPokemonAPI\obj\Debug\net6.0\ref\TODOPokemonAPI.dll

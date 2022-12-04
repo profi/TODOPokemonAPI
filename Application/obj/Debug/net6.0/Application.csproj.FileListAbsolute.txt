@@ -1,0 +1,30 @@
+C:\Users\Kliment Petreski\source\repos\TODOPokemonAPI\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Users\Kliment Petreski\source\repos\TODOPokemonAPI\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kliment Petreski\source\repos\TODOPokemonAPI\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Users\Kliment Petreski\source\repos\TODOPokemonAPI\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Users\Kliment Petreski\source\repos\TODOPokemonAPI\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\Kliment Petreski\source\repos\TODOPokemonAPI\Application\bin\Debug\net6.0\Application.deps.json
+C:\Users\Kliment Petreski\source\repos\TODOPokemonAPI\Application\bin\Debug\net6.0\Application.dll
+C:\Users\Kliment Petreski\source\repos\TODOPokemonAPI\Application\bin\Debug\net6.0\Application.pdb
+C:\Users\Kliment Petreski\source\repos\TODOPokemonAPI\Application\bin\Debug\net6.0\Core.dll
+C:\Users\Kliment Petreski\source\repos\TODOPokemonAPI\Application\bin\Debug\net6.0\Core.pdb
+C:\Users\Kliment Petreski\source\repos\TODOPokemonAPI\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+C:\Users\Kliment Petreski\source\repos\TODOPokemonAPI\Application\obj\Debug\net6.0\Application.dll
+C:\Users\Kliment Petreski\source\repos\TODOPokemonAPI\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Users\Kliment Petreski\source\repos\TODOPokemonAPI\Application\obj\Debug\net6.0\Application.pdb
+C:\Users\Kliment Petreski\source\repos\TODOPokemonAPI\Application\obj\Debug\net6.0\ref\Application.dll
+C:\Test\TODOPokemonAPI\Application\bin\Debug\net6.0\Application.deps.json
+C:\Test\TODOPokemonAPI\Application\bin\Debug\net6.0\Application.dll
+C:\Test\TODOPokemonAPI\Application\bin\Debug\net6.0\Application.pdb
+C:\Test\TODOPokemonAPI\Application\bin\Debug\net6.0\Core.dll
+C:\Test\TODOPokemonAPI\Application\bin\Debug\net6.0\Core.pdb
+C:\Test\TODOPokemonAPI\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Test\TODOPokemonAPI\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Test\TODOPokemonAPI\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Test\TODOPokemonAPI\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Test\TODOPokemonAPI\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Test\TODOPokemonAPI\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+C:\Test\TODOPokemonAPI\Application\obj\Debug\net6.0\Application.dll
+C:\Test\TODOPokemonAPI\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Test\TODOPokemonAPI\Application\obj\Debug\net6.0\Application.pdb
+C:\Test\TODOPokemonAPI\Application\obj\Debug\net6.0\ref\Application.dll
